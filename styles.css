@@ -1,0 +1,80 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #000000;
+  color: #333;
+  margin: 0;
+  padding: 20px;
+  /*background-image: url('./neural_network.svg');*/
+  background-size: cover; /* Adjust the size if needed */
+  background-repeat: no-repeat; /* Optional: Prevents tiling */
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center; /* Centers the image */
+  background-repeat: no-repeat; /* Prevents repeating */
+}
+
+#pieContainer {
+  background-color: #000000;
+  background-size: cover; /* Adjust the size if needed */
+  background-repeat: no-repeat; /* Optional: Prevents tiling */
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center; /* Centers the image */
+  background-repeat: no-repeat; /* Prevents repeating */
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  color: #2c3e50;
+}
+#page {
+  display: center;
+  justify-content: center;
+  align-items: center;
+}
+#chart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Base style for paths */
+path {
+  transition: transform 0.3s ease, filter 0.3s ease, stroke-width 0.3s ease; /* Smooth transitions */
+  position: relative; /* Required for z-index to work */
+  stroke: #000000; /* Default stroke color */
+  stroke-width: 1px; /* Default stroke width */
+  opacity: 0.9; /* Slightly reduce opacity for non-hovered elements */
+}
+
+/* Improved hover effect */
+path:hover {
+  transform: scale(1.001); /* Slightly enlarge the path */
+  filter: brightness(1.2) drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3)); /* Brighten and add shadow */
+  stroke-width: 2px; /* Increase stroke width */
+  stroke: aqua;
+  z-index: 10; /* Bring the hovered element to the front */
+  opacity: 1; /* Full opacity for hovered element */
+}
+
+/* Text styling */
+text {
+  pointer-events: none; /* Prevent text from blocking hover events */
+  fill: #000000; /* Text color */
+  border-color: rgb(0, 223, 0);
+  stroke-width: 1px;
+  stop-color: rgb(158, 63, 0);
+}
+
+
+.center-root-text{
+font-size: 24px;
+font-weight: bold;
+fill: rgb(196, 189, 178);
+}

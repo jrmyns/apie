@@ -1,0 +1,693 @@
+{
+  "name": "ApIe",
+  "category":"AI Tools",
+  "description": "A way to navigate AI tools. Click to visit the github webpage of the project.",
+  "url": "https://github.com/jrmyns",
+  "update": "2025-02-13T23:35:25+00:00",
+  "added": "2025-02-13T23:35:25+00:00",
+  "author":"jrmyns",
+  "children": [
+    {
+      "name": "General",
+      "category": "General",
+      "added": "2025-02-13T23:35:25+00:00",
+      "children": [
+        {
+          "name": "ChatBot",
+          "category": "ChatBot",
+          "added": "2025-02-13T23:35:25+00:00",
+          "children": [
+            {
+              "name": "ChatGPT",
+              "owner": "OpenAI",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://chat.openai.com/",
+              "url-project": "https://openai.com/research/gpt-4",
+              "description": "An advanced AI chatbot by OpenAI for natural language conversations, content creation, and problem-solving.",
+              "value": 10,
+              "plan": ["Free", "Freemium", "Paid"]
+            },
+            {
+              "name": "Claude",
+              "owner": "Anthropic",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://claude.ai/",
+              "url-project": "https://www.anthropic.com/",
+              "description": "A sophisticated AI assistant by Anthropic designed for human-centered AI interactions.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            },
+            {
+              "name": "Gemini",
+              "owner": "Google DeepMind",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://gemini.google.com/",
+              "url-project": "https://deepmind.google.com/gemini",
+              "description": "An AI model by Google DeepMind focused on advanced problem-solving and research.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            },
+            {
+              "name": "Mistral",
+              "owner": "Mistral AI",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://chat.mistral.ai/",
+              "url-project": "https://mistral.ai/models",
+              "description": "AI models by Mistral AI designed for diverse applications and problem-solving.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            },
+            {
+              "name": "ERNIE",
+              "owner": "Baidu",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://yiyan.baidu.com/",
+              "url-project": "https://ai.baidu.com/tech/nlp/ernie",
+              "description": "An AI model by Baidu focused on natural language processing and understanding.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            },
+            {
+              "name": "DeepSeek",
+              "owner": "DeepSeek",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://deepseek.ai/chat",
+              "url-project": "https://deepseek.ai/",
+              "description": "AI models by DeepSeek focused on language understanding and chat applications.",
+              "value": 10,
+              "plan": ["Open", "Free"]
+            },
+            {
+              "name": "Qwen",
+              "owner": "Alibaba Cloud",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://chat.qwenlm.ai/",
+              "url-project": "https://www.alibabacloud.com/product/machine-learning",
+              "description": "A family of large language models by Alibaba Cloud.",
+              "value": 10,
+              "plan": ["Free", "Freemium"]
+            },
+            {
+              "name": "AI Meta",
+              "owner": "Meta",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://meta.ai",
+              "url-project": "https://ai.meta.com/",
+              "description": "Meta's AI chatbot for conversational AI and virtual assistance.",
+              "value": 10,
+              "plan": ["Open", "Freemium"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Audio",
+      "category": "Audio",
+      "added": "2025-02-13T23:35:25+00:00",
+      "children": [
+        {
+          "name": "Processing",
+          "category": "Audio Processing",
+          "added": "2025-02-13T23:35:25+00:00",
+          "children": [
+            {
+              "name": "Landr",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://www.landr.com/",
+              "description": "An AI-based platform for audio mastering, offering professional-quality sound enhancement.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            },
+            {
+              "name": "LALAL.AI",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://www.lalal.ai/",
+              "description": "Separating vocals and instruments from audio tracks with high precision.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            }
+          ]
+        },
+        {
+          "name": "Synthesis",
+          "category": "Speech Synthesis",
+          "added": "2025-02-13T23:35:25+00:00",
+          "children": [
+            {
+              "name": "Descript",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://www.descript.com/",
+              "description": "Audio transcription, editing, and creating voiceovers with ease.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            },
+            {
+              "name": "Play.ht",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://play.ht/",
+              "description": "An AI-powered text-to-speech platform for generating natural-sounding voiceovers.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            },
+            {
+              "name": "Murf.ai",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://murf.ai/",
+              "description": "An AI voice generator for creating professional-quality voiceovers for videos and presentations.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Video",
+      "category": "Video",
+      "added": "2025-02-13T23:35:25+00:00",
+      "children": [
+        {
+          "name": "Editing",
+          "category": "Video Editing",
+          "added": "2025-02-13T23:35:25+00:00",
+          "children": [
+            {
+              "name": "Runway ML",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://runwayml.com/",
+              "description": "An AI-powered video editing tool for adding effects, transitions, and more.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            },
+            {
+              "name": "Magisto",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://www.magisto.com/",
+              "description": "An AI video editor for creating professional-quality videos automatically.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            },
+            {
+              "name": "Animoto",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://animoto.com/",
+              "description": "Creating engaging videos with minimal effort.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            }
+          ]
+        },
+        {
+          "name": "V-Generation",
+          "category": "Video Generation",
+          "added": "2025-02-13T23:35:25+00:00",
+          "children": [
+            {
+              "name": "Synthesia",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://www.synthesia.io/",
+              "description": "Creating videos with AI avatars and multilingual voiceovers.",
+              "value": 10,
+              "plan": ["Paid"]
+            },
+            {
+              "name": "Pictory",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://pictory.ai/",
+              "description": "Generating videos from text, ideal for marketers and content creators.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            },
+            {
+              "name": "DeepBrain",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://www.deepbrain.io/",
+              "description": "An AI video synthesis platform for creating realistic AI-generated videos.",
+              "value": 10,
+              "plan": ["Paid"]
+            }
+          ]
+        },
+        {
+          "name": "Animation",
+          "category": "Animation",
+          "added": "2025-02-13T23:35:25+00:00",
+          "children": [
+            {
+              "name": "D-ID",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://www.d-id.com/",
+              "description": "Creating animated avatars and interactive video content.",
+              "value": 10,
+              "plan": ["Paid"]
+            },
+            {
+              "name": "Plotagon",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://www.plotagon.com/",
+              "description": "Creating animated stories and videos with customizable characters.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            },
+            {
+              "name": "Toonify",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://toonify.justinpinkney.com/",
+              "description": "Transforming photos into cartoon-style images.",
+              "value": 10,
+              "plan": ["Free"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Text",
+      "category": "Text",
+      "added": "2025-02-13T23:35:25+00:00",
+      "children": [
+        {
+          "name": "Generation",
+          "added": "2025-02-13T23:35:25+00:00",
+          "children": [
+            {
+              "name": "Jasper AI",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://www.jasper.ai/",
+              "description": "AI for generating blogs, ads, and marketing content.",
+              "value": 10,
+              "plan": ["Paid"]
+            },
+            {
+              "name": "Rytr",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://rytr.me/",
+              "description": "An AI writing assistant for generating content, blogs, and marketing copy.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            },
+            {
+              "name": "Copy.ai",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://www.copy.ai/",
+              "description": "AI for creating marketing copy and social media posts.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            },
+            {
+              "name": "Writesonic",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://writesonic.com/",
+              "description": "AI for generating high-quality marketing content.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            }
+          ]
+        },
+        {
+          "name": "Proofreading",
+          "added": "2025-02-13T23:35:25+00:00",
+          "children": [
+            {
+              "name": "Grammarly",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://www.grammarly.com/",
+              "description": "AI for grammar, style, and clarity improvements.",
+              "value": 10,
+              "plan": ["Free", "Freemium", "Paid"]
+            },
+            {
+              "name": "ProWritingAid",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://prowritingaid.com/",
+              "description": "AI for grammar checking and writing analysis.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            },
+            {
+              "name": "HemingwayApp",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://hemingwayapp.com/",
+              "description": "AI for improving writing clarity and readability.",
+              "value": 10,
+              "plan": ["Free", "Paid"]
+            }
+          ]
+        },
+        {
+          "name": "Translation",
+          "added": "2025-02-13T23:35:25+00:00",
+          "children": [
+            {
+              "name": "G Translate",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://translate.google.com/",
+              "description": "AI for translating text between languages.",
+              "value": 10,
+              "plan": ["Free"]
+            },
+            {
+              "name": "DeepL",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://www.deepl.com/",
+              "description": "AI for high-quality text translation.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            },
+            {
+              "name": "MS Translator",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://www.microsoft.com/translator",
+              "description": "AI for real-time text and speech translation.",
+              "value": 10,
+              "plan": ["Free", "Paid"]
+            }
+          ]
+        },
+        {
+          "name": "Summarization",
+          "added": "2025-02-13T23:35:25+00:00",
+          "children": [
+            {
+              "name": "Quillbot",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://quillbot.com/",
+              "description": "AI for paraphrasing and summarizing text.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            },
+            {
+              "name": "Resoomer",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://resoomer.com/",
+              "description": "AI for summarizing long articles and documents.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            },
+            {
+              "name": "SMMRY",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://smmry.com/",
+              "description": "AI for summarizing text quickly and efficiently.",
+              "value": 10,
+              "plan": ["Free"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Slideshow",
+      "category": "Slideshow",
+      "added": "2025-02-13T23:35:25+00:00",
+      "children": [
+        {
+          "name": "Presentation",
+          "category": "Presentation",
+          "added": "2025-02-13T23:35:25+00:00",
+          "children": [
+            {
+              "name": "Beautiful.ai",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://www.beautiful.ai/",
+              "description": "AI for creating professional presentations quickly.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            },
+            {
+              "name": "SlidesAI",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://www.slidesai.io/",
+              "description": "AI for generating slides from text.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            },
+            {
+              "name": "Tome",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://beta.tome.app/",
+              "description": "AI for creating interactive presentations.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            },
+            {
+              "name": "Visme",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://www.visme.co/",
+              "description": "AI for creating engaging presentations and infographics.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            },
+            {
+              "name": "Prezi",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://prezi.com/",
+              "description": "AI for creating dynamic and interactive presentations.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Academia",
+      "category": "Academia",
+      "added": "2025-02-13T23:35:25+00:00",
+      "children": [
+        {
+          "name": "Learning",
+          "category": "Learning Platforms",
+          "added": "2025-02-13T23:35:25+00:00",
+          "children": [
+            {
+              "name": "Coursera",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://www.coursera.org/",
+              "description": "An AI-powered platform offering online courses and certifications from top universities.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            },
+            {
+              "name": "Khan Academy",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://www.khanacademy.org/",
+              "description": "An AI-driven learning platform offering free educational resources for all ages.",
+              "value": 10,
+              "plan": ["Free"]
+            },
+            {
+              "name": "Quizlet",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://quizlet.com/",
+              "description": "An AI-based study tool for creating flashcards, quizzes, and learning games.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            }
+          ]
+        },
+        {
+          "name": "Research",
+          "category": "Research Tools",
+          "added": "2025-02-13T23:35:25+00:00",
+          "children": [
+            {
+              "name": "Semantic Scholar",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://www.semanticscholar.org/",
+              "description": "An AI-powered search engine for discovering and analyzing academic papers.",
+              "value": 10,
+              "plan": ["Free"]
+            },
+            {
+              "name": "Consensus",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://consensus.app/",
+              "description": "Evidence-based research and summarizing scientific findings.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            },
+            {
+              "name": "Iris.ai",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://iris.ai/",
+              "description": "Analyzing and organizing research papers efficiently.",
+              "value": 10,
+              "plan": ["Paid"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Image",
+      "category": "Image",
+      "added": "2025-02-13T23:35:25+00:00",
+      "children": [
+        {
+          "name": "Art",
+          "category": "Art",
+          "added": "2025-02-13T23:35:25+00:00",
+          "children": [
+            {
+              "name": "Artbreeder",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://www.artbreeder.com/",
+              "description": "Creating and blending images to generate unique artworks.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            },
+            {
+              "name": "DeepArt",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://deepart.io/",
+              "description": "Transforming photos into artworks using style transfer.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            },
+            {
+              "name": "DALL-E",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://openai.com/dall-e/",
+              "description": "An AI image generator for creating unique visuals from text descriptions.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            }
+          ]
+        },
+        {
+          "name": "Design",
+          "category": "Design",
+          "added": "2025-02-13T23:35:25+00:00",
+          "children": [
+            {
+              "name": "Canva",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://www.canva.com/",
+              "description": "An AI-powered graphic design tool for creating visuals, presentations, and more.",
+              "value": 10,
+              "plan": ["Free", "Freemium", "Paid"]
+            },
+            {
+              "name": "Figma",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://www.figma.com/",
+              "description": "An AI-enhanced design tool for collaborative UI/UX and graphic design projects.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            },
+            {
+              "name": "Uizard",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://uizard.io/",
+              "description": "Designing user interfaces and prototypes quickly and easily.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marketing",
+      "category": "Marketing",
+      "added": "2025-02-13T23:35:25+00:00",
+      "children": [
+        {
+          "name": "Content Creation",
+          "category": "Content Creation",
+          "added": "2025-02-13T23:35:25+00:00",
+          "children": [
+            {
+              "name": "Jasper AI",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://www.jasper.ai/",
+              "description": "An AI content generator for creating blogs, ads, and marketing materials.",
+              "value": 10,
+              "plan": ["Paid"]
+            },
+            {
+              "name": "Copy.ai",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://www.copy.ai/",
+              "description": "Generating marketing copy, social media posts, and more.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            },
+            {
+              "name": "Anyword",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://anyword.com/",
+              "description": "Creating optimized ad copy and marketing content.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            }
+          ]
+        },
+        {
+          "name": "Social Media",
+          "category": "Social Media",
+          "added": "2025-02-13T23:35:25+00:00",
+          "children": [
+            {
+              "name": "Buffer",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://buffer.com/",
+              "description": "Scheduling and managing social media posts efficiently.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            },
+            {
+              "name": "Hootsuite",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://hootsuite.com/",
+              "description": "An AI-powered platform for social media management and analytics.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            },
+            {
+              "name": "Lately",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://www.lately.ai/",
+              "description": "Creating and scheduling social media content automatically.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            }
+          ]
+        },
+        {
+          "name": "SEO",
+          "category": "SEO",
+          "added": "2025-02-13T23:35:25+00:00",
+          "children": [
+            {
+              "name": "Surfer SEO",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://surferseo.com/",
+              "description": "Optimizing content and improving search engine rankings.",
+              "value": 10,
+              "plan": ["Paid"]
+            },
+            {
+              "name": "Frase",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://www.frase.io/",
+              "description": "Content optimization and SEO research.",
+              "value": 10,
+              "plan": ["Freemium", "Paid"]
+            },
+            {
+              "name": "MarketMuse",
+              "added": "2025-02-13T23:35:25+00:00",
+              "url": "https://www.marketmuse.com/",
+              "description": "Content strategy and SEO optimization.",
+              "value": 10,
+              "plan": ["Paid"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
