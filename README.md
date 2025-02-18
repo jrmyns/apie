@@ -13,7 +13,7 @@ Welcome to **ApIe**, a visual and interactive way to navigate AI tools. This pro
 - Explore the AI tools by interacting with the pie chart.
 
 ## License
-This project is licensed under the **Custom Attribution License**. 
+This project is licensed under the following : 
 
 
 ### Terms and Conditions
