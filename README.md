@@ -10,7 +10,10 @@ Welcome to **ApIe**, a visual and interactive way to navigate AI tools. This pro
 
 ## How to Use
 
-- Explore the AI tools by interacting with the pie chart.
+- Explore the AI tools by interacting with the pie chart at the following address:
+
+**[https://jrmyns.github.io/apie/](https://jrmyns.github.io/apie/)**
+
 
 ## License
 This project is licensed under the following : 
@@ -36,3 +39,5 @@ This project is licensed under the following :
 
 ### How to Provide Attribution
 If you use this project, you must include the following attribution in your work:
+  - The name of the original author (jrmyns).
+  - A link to the original source: [https://github.com/jrmyns/apie](https://github.com/jrmyns/apie).
