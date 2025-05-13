@@ -3,7 +3,7 @@
   "category":"AI Tools",
   "description": "A way to navigate AI tools. Click to visit the github webpage of the project.",
   "url": "https://github.com/jrmyns",
-  "update": "2025-02-13T23:35:25+00:00",
+  "update":"2025-05-13T15:15:13+00:00",
   "added": "2025-02-13T23:35:25+00:00",
   "author":"jrmyns",
   "children": [
@@ -71,8 +71,8 @@
               "name": "DeepSeek",
               "owner": "DeepSeek",
               "added": "2025-02-13T23:35:25+00:00",
-              "url": "https://deepseek.ai/chat",
-              "url-project": "https://deepseek.ai/",
+              "url": "https://www.deepseek.com/en",
+              "url-project": "https://www.deepseek.com/en",
               "description": "AI models by DeepSeek focused on language understanding and chat applications.",
               "value": 10,
               "plan": ["Open", "Free"]
